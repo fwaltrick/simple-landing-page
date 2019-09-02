@@ -1,5 +1,3 @@
-# fwaltrick.github.io
-
 *"I find out what the world needs, then I proceed to invent it”* <br>
 Thomas Edison
 
